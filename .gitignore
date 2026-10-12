@@ -1,0 +1,38 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+
+# Training artifacts and weights
+runs/
+*.pt
+*.pth
+*.onnx
+*.engine
+*.torchscript
+
+# Datasets and archives (never versioned; see README for download instructions)
+datasets/
+dataset_yolo/
+raw/
+manual_sources/
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
