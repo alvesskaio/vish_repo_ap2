@@ -131,6 +131,13 @@ What the group wrote, as opposed to the third-party software above.
 
 See [`docs/DEVELOPMENT.md`](docs/DEVELOPMENT.md).
 
+## Authors
+
+- Kaio Alves ([@alvesskaio](https://github.com/alvesskaio))
+- João Gabriel Tasca Barroso de Assis ([@JoGabTasca](https://github.com/JoGabTasca))
+
+<!-- TODO: add any other group members, and who wrote which component, if desired. -->
+
 ## License
 
 The code written by the group in this repository is released under the [MIT License](LICENSE).
