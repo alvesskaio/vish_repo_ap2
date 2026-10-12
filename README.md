@@ -133,4 +133,6 @@ See [`docs/DEVELOPMENT.md`](docs/DEVELOPMENT.md).
 
 ## License
 
-TODO: pending decision (see open questions).
+The code written by the group in this repository is released under the [MIT License](LICENSE).
+
+This license covers only the group's own code. It does not cover third-party software or data, which keep their own licenses (see [Third-party software and data](#third-party-software-and-data)). Datasets are not distributed here; if you redistribute data or derived datasets, respect their terms, in particular the ShareAlike requirement of RDD2022 (CC BY-SA 4.0).
